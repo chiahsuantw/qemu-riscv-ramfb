@@ -1,3 +1,5 @@
+/* QEMU ramfb driver implementation */
+
 #pragma once
 
 #include <stdint.h>
