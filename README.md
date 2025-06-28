@@ -1,3 +1,4 @@
 # QEMU Ramfb Driver for Bare-Metal RISC-V Kernels
 
-![image](https://github.com/user-attachments/assets/1951d611-e4df-4303-936f-3361c8f002e9)
+<img src="https://github.com/user-attachments/assets/6f034622-66a6-446c-9651-64466db9a21e" width="750">
+
